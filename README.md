@@ -1,14 +1,6 @@
-# leetcode-curation-topical
-Curation of great Leetcode questions, categorized by topic/concept.
+# ds-algo-curation
+Curation of great Leetcode/Interviewbit questions, categorized by topic/concept.
 My criteria for curation is that questions must be *valuable*, and not just difficult for the sake of being difficult.
-
-Valuable questions can usually be solved in a variety of ways with different time/space efficiencies (through the use of various data structures), or require the application of certain common and reusable techniques.
-
-Bad questions are those that are extremely difficult for the sake of being so, and require knowledge of some uncommon technique to solve (which cannot be applied outside a very narrow scope).
-
-Essentially, this is a curation of questions that I personally use to prepare for technical interviews.
-
-Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to interview once and apply for multiple top tech companies!
 
 ## Arrays/Strings
 * [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)
